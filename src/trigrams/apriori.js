@@ -4,13 +4,13 @@
  * @Author: lax
  * @Date: 2023-05-15 23:05:38
  * @LastEditors: lax
- * @LastEditTime: 2024-05-18 12:19:21
+ * @LastEditTime: 2024-05-18 20:59:36
  */
 module.exports = {
 	/**
 	 * 先天八卦
 	 */
-	apriori: ["乾", "兑", "离", "震", "巽", "坎", "艮", "坤"],
+	APRIORI_ARR: ["乾", "兑", "离", "震", "巽", "坎", "艮", "坤"],
 	APRIORI: {
 		HEAVEN: "乾",
 		DUI: "兑",

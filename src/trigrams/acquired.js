@@ -4,13 +4,13 @@
  * @Author: lax
  * @Date: 2023-05-15 23:05:38
  * @LastEditors: lax
- * @LastEditTime: 2024-05-18 12:18:37
+ * @LastEditTime: 2024-05-18 20:59:27
  */
 module.exports = {
 	/**
 	 * 后天八卦：
 	 */
-	acquired: ["坎", "坤", "震", "巽", "中", "乾", "兑", "艮", "离"],
+	ACQUIRED_ARR: ["坎", "坤", "震", "巽", "中", "乾", "兑", "艮", "离"],
 	ACQUIRED: {
 		/** 英文 */
 		KAN: "坎",

@@ -4,13 +4,13 @@
  * @Author: lax
  * @Date: 2023-05-15 22:58:00
  * @LastEditors: lax
- * @LastEditTime: 2024-05-18 12:24:04
+ * @LastEditTime: 2024-05-18 20:58:18
  */
 const obj = {
 	/**
 	 * 地支
 	 */
-	terrestrialBranches: [
+	TERRESTRIAL_BRANCHES_ARR: [
 		"子",
 		"丑",
 		"寅",
@@ -54,6 +54,6 @@ const obj = {
 	},
 };
 obj.TB = obj.TERRESTRIAL_BRANCHES;
-obj.tb = obj.terrestrialBranches;
+obj.TB_ARR = obj.TERRESTRIAL_BRANCHES_ARR;
 
 module.exports = obj;

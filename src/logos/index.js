@@ -4,10 +4,10 @@
  * @Author: lax
  * @Date: 2023-05-15 23:22:05
  * @LastEditors: lax
- * @LastEditTime: 2023-05-15 23:23:24
+ * @LastEditTime: 2024-05-18 20:56:17
  */
 module.exports = {
-	logos: ["阴", "阳"],
+	LOGOS_ARR: ["阴", "阳"],
 	LOGOS: {
 		YIN: "阴",
 		YANG: "阳",

@@ -1,5 +1,5 @@
 module.exports = {
-	cycle: [
+	CYCLE: [
 		"长生",
 		"沐浴",
 		"冠带",

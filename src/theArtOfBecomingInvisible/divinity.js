@@ -4,13 +4,22 @@
  * @Author: lax
  * @Date: 2023-05-15 23:20:31
  * @LastEditors: lax
- * @LastEditTime: 2024-05-18 14:27:40
+ * @LastEditTime: 2024-05-18 20:58:44
  */
 module.exports = {
 	/**
 	 * 八神
 	 */
-	divinity: ["值符", "螣蛇", "太阴", "六合", "白虎", "玄武", "九地", "九天"],
+	DIVINITY_ARR: [
+		"值符",
+		"螣蛇",
+		"太阴",
+		"六合",
+		"白虎",
+		"玄武",
+		"九地",
+		"九天",
+	],
 
 	DIVINITY: {
 		/** 英文 */

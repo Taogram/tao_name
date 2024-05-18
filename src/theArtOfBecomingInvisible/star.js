@@ -4,7 +4,7 @@
  * @Author: lax
  * @Date: 2023-05-15 23:15:22
  * @LastEditors: lax
- * @LastEditTime: 2024-05-18 14:16:36
+ * @LastEditTime: 2024-05-18 20:59:08
  */
 module.exports = {
 	/**
@@ -20,7 +20,7 @@ module.exports = {
 	 * 洞明/左辅/天任 (辅增一：MUA83,IQ)
 	 * 隐元/右弼/天英 (相星：5 CVn)
 	 */
-	star: [
+	STAR_ARR: [
 		"天蓬星",
 		"天芮星",
 		"天冲星",

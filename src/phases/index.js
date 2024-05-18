@@ -4,12 +4,12 @@
  * @Author: lax
  * @Date: 2023-05-15 23:23:52
  * @LastEditors: lax
- * @LastEditTime: 2024-05-18 14:33:27
+ * @LastEditTime: 2024-05-18 20:56:46
  */
 const RELATION = require("@/phases/relation.js");
 const CYCLE = require("@/phases/cycle.js");
 module.exports = Object.assign({
-	phases: ["水", "火", "木", "金", "土"],
+	PHASES_ARR: ["水", "火", "木", "金", "土"],
 	PHASES: {
 		/** 英文 */
 		WATER: "水",

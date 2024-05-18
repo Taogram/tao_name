@@ -2,7 +2,7 @@ const obj = {
 	/**
 	 * 六十天干地支
 	 */
-	sexagenaryCycle: [
+	SEXAGENARY_CYCLE_ARR: [
 		"甲子",
 		"乙丑",
 		"丙寅",
@@ -190,6 +190,6 @@ const obj = {
 	},
 };
 
-obj.sc = obj.sexagenaryCycle;
+obj.SC_ARR = obj.SEXAGENARY_CYCLE_ARR;
 obj.SC = obj.SEXAGENARY_CYCLE;
 module.exports = obj;

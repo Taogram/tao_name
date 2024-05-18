@@ -4,7 +4,7 @@
  * @Author: lax
  * @Date: 2023-05-15 23:02:21
  * @LastEditors: lax
- * @LastEditTime: 2024-05-18 12:26:00
+ * @LastEditTime: 2024-05-18 20:58:37
  */
 module.exports = {
 	/**
@@ -12,7 +12,7 @@ module.exports = {
 	 * 为十天干中的戌、己、庚、辛、壬、癸。
 	 * 对应为六只仪仗队，六甲将分别隐喻六仪之中
 	 */
-	ceremony: ["戊", "己", "庚", "辛", "壬", "癸"],
+	CEREMONY_ARR: ["戊", "己", "庚", "辛", "壬", "癸"],
 	CEREMONY: {
 		PENT: "戊",
 		HEX: "己",

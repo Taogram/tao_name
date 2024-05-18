@@ -1,6 +1,6 @@
 {
   "name": "tao_name",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "易学别名统一用",
   "private": false,
   "license": "MIT",
@@ -41,7 +41,7 @@
   "keywords": [
     "tao",
     "taogram",
-		"name",
+    "name",
     "standard",
     "node",
     "js",

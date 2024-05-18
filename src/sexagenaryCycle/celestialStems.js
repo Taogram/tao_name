@@ -4,13 +4,24 @@
  * @Author: lax
  * @Date: 2023-05-15 22:56:58
  * @LastEditors: lax
- * @LastEditTime: 2024-05-18 14:29:56
+ * @LastEditTime: 2024-05-18 20:57:05
  */
 const obj = {
 	/**
 	 * 天干
 	 */
-	celestialStems: ["甲", "乙", "丙", "丁", "戊", "己", "庚", "辛", "壬", "癸"],
+	CELESTIAL_STEMS_ARR: [
+		"甲",
+		"乙",
+		"丙",
+		"丁",
+		"戊",
+		"己",
+		"庚",
+		"辛",
+		"壬",
+		"癸",
+	],
 	CELESTIAL_STEMS: {
 		/** 英文写法 */
 		METH: "甲",
@@ -36,7 +47,7 @@ const obj = {
 		GUI: "癸",
 	},
 };
-obj.cs = obj.celestialStems;
+obj.CS_ARR = obj.CELESTIAL_STEMS_ARR;
 obj.CS = obj.CELESTIAL_STEMS;
 
 module.exports = obj;
