@@ -4,7 +4,7 @@
  * @Author: lax
  * @Date: 2023-05-15 23:05:38
  * @LastEditors: lax
- * @LastEditTime: 2024-05-18 20:59:27
+ * @LastEditTime: 2024-05-19 10:38:51
  */
 module.exports = {
 	/**
@@ -23,7 +23,7 @@ module.exports = {
 		GEN: "艮",
 		LEAVE: "离",
 		/** 中文补充 */
-		kUN: "坤",
+		KUN: "坤",
 		ZHEN: "震",
 		ZHONG: "中",
 		QIAN: "乾",
